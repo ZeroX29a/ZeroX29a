@@ -1,9 +1,9 @@
 # ZeroX29a
 ## It is What It is. 
 
-<!-- Obviously name's not JCtine, but its good as any  ¯\_(ツ)_/¯  
+Obviously name's not JCtine, but its good as any  ¯\_(ツ)_/¯  
 
-Morally Grey, Doing what i love, been involved with Hacking(SW/HW), Malware Analysis,Binary Reverse Enginering in the Past, but RTL is where I stand rn. -->
+Morally Grey, Doing what i love, been involved with Hacking(SW/HW), Malware Analysis,Binary Reverse Enginering in the Past, but RTL is where I stand rn.
 Going with the flow of what keeps me thinking the longer. Loves to THINK. When not Explicitly said assume GPLv3(Give back to what's been given)
 
 
